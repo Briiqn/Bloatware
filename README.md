@@ -11,7 +11,7 @@ The 1.8 Minecraft hakeo with tor built in and foss?!
 	Script Manager: Done, Uses Groovy
 	Modules: >50
 	Bypasses: Hypixel,Blocksmc,Zonecraft : Done: Other :Not Done
-	Realeased  == false
-	Estimated Release == "Late October-Mid November"
-	Dev Count == "1"
-	Kotlin Code == "Around 15% of the Client is written in Kotlin"
+	Realeased  = false
+	Estimated Release = "Late October-Mid November"
+	Dev Count = "1"
+	Kotlin Code = "Around 15% of the Client is written in Kotlin"
