@@ -7,7 +7,7 @@ The 1.8 Minecraft hakeo with tor built in and foss?!
 	Shitcode: Done
 	Gui Shit: Done
 	Module Shit : Done
-	Tor Implmentaion:Done, On Unix/Unix-Like Systems (Not Windows)
+	Tor Implmentaion:Done, On Unix/Unix-Like Systems (Everything but Windows)
 	Script Manager: Done, Uses Groovy
 	Modules: >50
 	Bypasses: Hypixel,Blocksmc,Zonecraft : Done: Other :Not Done
