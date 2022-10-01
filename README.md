@@ -12,6 +12,6 @@ The 1.8 Minecraft hakeo with tor built in and foss?!
 	Modules: >50
 	Bypasses: Hypixel,Blocksmc,Zonecraft : Done: Other :Not Done
 	Realeased  = false
-	Estimated Release = "Late October-Mid November"
+	Estimated Release = "Whenever i feel liek it"
 	Dev Count = "1"
 	Kotlin Code = "Around 15% of the Client is written in Kotlin"
