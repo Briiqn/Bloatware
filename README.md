@@ -26,10 +26,10 @@ Bloatware includes a wide range of features and tools that can help you dominate
 ## Credits 🙏
 
 Some code used in Bloatware has been adapted from various projects, including:
-- LiquidBounce: [@CCBlueX/LiquidBounce](https://github.com/CCBlueX/LiquidBounce) (Bed Nuker breaking method & KillAura Silent Movefix mode)
+- LiquidBounce: [@CCBlueX/LiquidBounce](https://github.com/CCBlueX/LiquidBounce) (Bed Nuker breaking method)
 
 - ViaMCP Reborn:
-[@FlorianMichael/ViaMCP-Reborn](https://github.com/FlorianMichael/ViaMCP-Reborn)
+[@FlorianMichael/ViaMCP-Reborn](https://github.com/FlorianMichael/ViaMCP)
 
 - Wavey Capes Mod
 [@tr7zw/WaveyCapes](https://github.com/tr7zw/WaveyCapes)
