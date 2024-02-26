@@ -1,6 +1,6 @@
 # Bloatware 
 
-Bloatware is an advanced 1.8.8 Minecraft hack client with a wide range of features and capabilities. With its powerful set of tools and intuitive user interface, Bloatware is designed to give you the ultimate advantage when playing Minecraft.
+Bloatware is an advanced 1.20 Minecraft hack client with a wide range of features and capabilities. With its powerful set of tools and intuitive user interface, Bloatware is designed to give you the ultimate advantage when playing Minecraft.
 
 ## Features 🛠️
 
